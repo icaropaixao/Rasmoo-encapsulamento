@@ -1,5 +1,5 @@
-public class Conta {
 
+public class Conta {
 
     private int agencia;
     private int numero;
@@ -85,6 +85,7 @@ public class Conta {
 
     public void setTitular(Cliente titular){
         this.titular = titular;
-    }
-}
 
+    }
+
+}

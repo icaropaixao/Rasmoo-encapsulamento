@@ -1,4 +1,5 @@
 public class Encapsulamento {
+
     public static void main(String[] args) {
         // criando cliente
         Cliente clienteIcaro = new Cliente();
@@ -32,4 +33,5 @@ public class Encapsulamento {
         System.out.println("DOIS: "+ contaTwo.getTitular().getSalario());
 
     }
+
 }
